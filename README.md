@@ -1,19 +1,19 @@
 # CopyAll_URLs
 
-A Chrome extension to copy URLs of all the open tabs in the current Chrome browser window. 
+A Chrome extension to copy URLs of all the open tabs in the current Chrome browser window... 
 
 ## I am currently in the process of submitting this to Chrome. So till such time that happens, you will need to use this unpacked.
 
 ### Instructions to use unpacked:
 How to Install the Extension
 
-Create a new folder on your computer for the extension
-Save all three files into this folder
-Create an 'icons' subfolder (you'll need some icon files - you can use any 16x16, 48x48, and 128x128 png images)
-Open Chrome and go to chrome://extensions/
-Enable "Developer mode" (toggle in the top-right corner)
-Click "Load unpacked" and select your extension folder
-The extension will appear in your toolbar
+- Create a new folder on your computer for the extension
+- Save all three files into this folder
+- Create an 'icons' subfolder (you'll need some icon files - you can use any 16x16, 48x48, and 128x128 png images)
+- Open Chrome and go to chrome://extensions/
+- Enable "Developer mode" (toggle in the top-right corner)
+- Click "Load unpacked" and select your extension folder
+- The extension will appear in your toolbar
 
 How to Use
 
